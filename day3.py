@@ -1,1 +1,0 @@
-# practiced day 2's tasks to remember more accurately
