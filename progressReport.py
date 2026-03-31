@@ -12,3 +12,4 @@
 # practiced day 3's tasks one more day to remember more accurately
 # practiced day 3's tasks one more day to remember more accurately
 # practiced day 3's tasks one more day to remember more accurately
+# completed the NumPy crash course - arrays, broadcasting, vectorization
