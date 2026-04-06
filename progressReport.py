@@ -16,3 +16,4 @@
 # started learning 3Blue1Brown "Neural Networks" series (Chapters 1–2) - what is a NN, gradient descent
 # Learning more about Neural Networks.
 # Learning more about Neural Networks.
+# started working on "ZhanAI" projects ML part
