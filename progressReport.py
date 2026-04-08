@@ -18,3 +18,4 @@
 # Learning more about Neural Networks.
 # started working on "ZhanAI" projects ML part
 # submitted the "ZhanAI" projects pipelines works
+# updated "ZhanAI"s pipelines
