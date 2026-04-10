@@ -19,3 +19,4 @@
 # started working on "ZhanAI" projects ML part
 # submitted the "ZhanAI" projects pipelines works
 # updated "ZhanAI"s pipelines
+# worked on "Motivational Daily" app (updated)
