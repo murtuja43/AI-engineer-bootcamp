@@ -22,3 +22,4 @@
 # worked on "Motivational Daily" app (updated)
 # worked on "Motivational Daily" app (updated)
 # touched some ml pipelines
+# Made some changes with my dailyfuel app
