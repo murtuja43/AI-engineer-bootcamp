@@ -24,3 +24,4 @@
 # touched some ml pipelines
 # Made some changes with my dailyfuel app
 # Learned about Rag
+# Started building CLI tools
