@@ -25,3 +25,4 @@
 # Made some changes with my dailyfuel app
 # Learned about Rag
 # Started building CLI tools
+# Built a CLI tool to generate a random motivational quote
