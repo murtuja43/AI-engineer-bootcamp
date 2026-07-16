@@ -27,3 +27,4 @@
 # Started building CLI tools
 # Built a CLI tool to generate a random motivational quote
 # Fixed some bugs on TickLog app (almost ready to launch)
+# # Learned about embeddings and vector databases
