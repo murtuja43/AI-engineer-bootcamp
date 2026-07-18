@@ -30,3 +30,4 @@
 # Learned about embeddings and vector databases
 # Learning about Vector Databases
 # Read some articles about Vector Databases
+# Worked on TickLog app (fixed few more bugs)
