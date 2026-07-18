@@ -29,3 +29,4 @@
 # Fixed some bugs on TickLog app (almost ready to launch)
 # Learned about embeddings and vector databases
 # Learning about Vector Databases
+# Read some articles about Vector Databases
