@@ -31,3 +31,4 @@
 # Learning about Vector Databases
 # Read some articles about Vector Databases
 # Worked on TickLog app (fixed few more bugs)
+# Tested TickLog app with testers
